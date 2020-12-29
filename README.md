@@ -7,6 +7,9 @@
 ### 2)Transform new data by using transform method of scaler object<br>
 ### 3)Use predict method of RFmodel object
 
+### The model is deployed at https://ml-crop-recommender.herokuapp.com/
+### You can view the code at https://github.com/czyum/crop-recommender-deploy
+
 
 
 
